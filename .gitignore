@@ -1,2 +1,24 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+ENV/
+env/
+.venv/
+
+# VS Code settings
+.vscode/
+
+# MacOS system files
+.DS_Store
+
+# Test / log output
+*.log
+
+# OS-generated files
+Thumbs.db
 venv/
 __pycache__/
